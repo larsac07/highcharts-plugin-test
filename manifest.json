@@ -17,8 +17,6 @@
 		"highcharts": "4.1"
 	},
 	"demo": [
-		"[Demo with bubbles](http://jsfiddle.net/nsj5uzdw/)",
-		"[Demo without bubbles... (but with points!)](http://jsfiddle.net/nsj5uzdw/)",
 		"http://jsfiddle.net/nsj5uzdw/"
 	]
 }

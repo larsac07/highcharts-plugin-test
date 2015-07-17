@@ -15,5 +15,10 @@
 	],
 	"dependencies": {
 		"highcharts": "4.1"
-	}
+	},
+	"demo": [
+		"[Demo with bubbles](highcharts.com)",
+		"[Demo without bubbles... (but with points!)](http://www.highcharts.com)",
+		"http://highcharts.com"
+	]
 }

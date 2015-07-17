@@ -15,6 +15,5 @@
 	],
 	"dependencies": {
 		"highcharts": "4.1"
-	},
-	"type": "plugin"
+	}
 }

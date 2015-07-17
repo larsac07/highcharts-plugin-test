@@ -14,13 +14,13 @@
 		}
 	],
 	"dependencies": {
-		"highcharts": "4.1"
+		"highcharts": "4.1.3"
 	},
 	"demo": [
-        "http://jsfiddle.net/nsj5uzdw/",
-        "http://jsfiddle.net/1peapgLw/",
-        "http://jsfiddle.net/y80jchon/",
-        "http://jsfiddle.net/f7ofc3q3/",
+        "[Demo with bubbles](http://jsfiddle.net/nsj5uzdw/)",
+        "[Demo without bubbles]: http://jsfiddle.net/1peapgLw/",
+        "Demo with some bubbles: (http://jsfiddle.net/y80jchon/)",
+        "Demo with one bubble: [http://jsfiddle.net/f7ofc3q3/]",
         "http://jsfiddle.net/mqxmraL2/"
     ]
 }

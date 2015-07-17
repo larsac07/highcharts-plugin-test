@@ -17,6 +17,10 @@
 		"highcharts": "4.1"
 	},
 	"demo": [
-		"http://jsfiddle.net/nsj5uzdw/"
-	]
+        "http://jsfiddle.net/nsj5uzdw/",
+        "http://jsfiddle.net/1peapgLw/",
+        "http://jsfiddle.net/y80jchon/",
+        "http://jsfiddle.net/f7ofc3q3/",
+        "http://jsfiddle.net/mqxmraL2/"
+    ]
 }

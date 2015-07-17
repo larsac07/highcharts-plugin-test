@@ -1,0 +1,20 @@
+{
+	"name": "Test name",
+	"version": "1.0",
+	"type": "theme",
+	"title": "Test title",
+	"author": {
+		"name": "Lars Cabrera",
+		"url": "https://github.com/larsac07/highcharts-plugin-test"
+	},
+	"licenses": [
+		{
+			"type": "none",
+			"url": "none"
+		}
+	],
+	"dependencies": {
+		"highcharts": "4.1"
+	},
+	"type": "plugin"
+}
